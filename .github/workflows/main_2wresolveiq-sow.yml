@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: '2wresolveIQ-SOW'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_099F20F93D95459082CEE1DA17225D37 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B07F8B7CCF246868D59303AFB988397 }}
